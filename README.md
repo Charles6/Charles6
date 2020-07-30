@@ -30,6 +30,6 @@ const nguyenCharles = {
     languages: ["JavaScript", "HTML5", "CSS", "R", "TypeScript", "Go", "PyTorch"],
     frameworks: ["React", "Gatsby"],
     other: ["Node.js", "Docker", "Git", "AWS"]
-  }
+  },
   hobbies: ["asian culture and history", "Dungeons & Dragons", "Gunpla", "cooking"]
 ```

@@ -11,11 +11,13 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/codepen.svg" />
 </a>
 
-<br/>
+<br/><br/>
 
 ```javascript
 const nguyenCharles = {
   currentLocation: "Los Angeles, CA",
+  employer: "Entertainment Partners",
+  title: "Senior User Interface Engineer",
   education: {
     bachelors: "The College of William & Mary",
     masters: "University of Hawaiʻi at Mānoa",
@@ -27,4 +29,5 @@ const nguyenCharles = {
     other: ["Node.js", "Docker", "Git", "AWS"]
   },
   hobbies: ["asian culture and history", "Dungeons & Dragons", "GunPla", "cooking"]
+}
 ```

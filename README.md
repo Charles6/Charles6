@@ -12,11 +12,6 @@
 </a>
 
 <br/>
-<a href="https://nguyencharles.com">
-  Personal Website
-</a>
-
-<br/>
 
 ```javascript
 const nguyenCharles = {
@@ -31,5 +26,5 @@ const nguyenCharles = {
     frameworks: ["React", "Gatsby"],
     other: ["Node.js", "Docker", "Git", "AWS"]
   },
-  hobbies: ["asian culture and history", "Dungeons & Dragons", "Gunpla", "cooking"]
+  hobbies: ["asian culture and history", "Dungeons & Dragons", "GunPla", "cooking"]
 ```

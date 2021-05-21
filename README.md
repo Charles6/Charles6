@@ -15,6 +15,7 @@
 
 ```javascript
 const nguyenCharles = {
+  pronouns: "He/Him",
   currentLocation: "Los Angeles, CA",
   employer: "Entertainment Partners",
   title: "Senior User Interface Engineer",

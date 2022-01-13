@@ -18,7 +18,7 @@ const nguyenCharles = {
   pronouns: "He/Him",
   currentLocation: "Los Angeles, CA",
   employer: "Entertainment Partners",
-  title: "Senior User Interface Engineer",
+  title: "Principle Engineer",
   education: {
     bachelors: "The College of William & Mary",
     masters: "University of Hawaiʻi at Mānoa",

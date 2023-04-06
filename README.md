@@ -18,14 +18,14 @@ const nguyenCharles = {
   pronouns: "He/Him",
   currentLocation: "Los Angeles, CA",
   employer: "Entertainment Partners",
-  title: "Principle Engineer",
+  title: "Principal Engineer",
   education: {
     bachelors: "The College of William & Mary",
     masters: "University of Hawaiʻi at Mānoa",
   },
   spokenLanguages: ["Vietnamese", "English", "Japanese"],
   technology: {
-    languages: ["JavaScript", "HTML5", "CSS", "R", "TypeScript", "Go", "PyTorch"],
+    languages: ["JavaScript", "HTML5", "CSS", "R", "TypeScript", "Rego", "Go", "PyTorch"],
     frameworks: ["React", "Gatsby"],
     other: ["Node.js", "Docker", "Git", "AWS"]
   },
